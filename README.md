@@ -1,5 +1,46 @@
-# 💫 About Me:
-Hi, I'm Ali Kazi! 👋<br>Welcome to my GitHub profile! I'm a  Frontend Developer and UI/UX Designer with a passion for creating intuitive, user-centered digital experiences. I’m currently pursuing my Master’s in Computer Science at the University of Paderborn, where I’m diving deep into data-driven innovation and software engineering.<br><br>🔭 Working On<br>VR Chemistry Lab Game in Unity.<br>No-code automation with Make & FlutterFlow.<br><br>👯 Collaborate On<br>Web/Mobile apps, data-driven design, or Web3 projects.<br><br>🤝 Need Help With<br>Web3.js, advanced Unity, or AI-driven design tools.<br><br>🌱 Learning<br>Web3, Unity 3D UI, and no-code tools.<br><br>💬 Ask Me About<br>UI/UX design, frontend dev (HTML, CSS, JS, React), or my Computer Vision projects.<br><br>📧 Email: ali.kazi@hotmail.com<br>💼 LinkedIn: linkedin.com/in/alikazidev<br><br>Let’s build something amazing! 🚀
+💫 About Me:
+Hi, I'm Ali Kazi! 👋
+Welcome to my GitHub profile! I'm a Data Scientist and AI/ML Engineer with a passion for building intelligent, data-driven solutions. I'm currently pursuing my Master's in Computer Science (specializing in Artificial Intelligence) at the University of Paderborn, where I'm exploring machine learning, generative AI, and data science applications.
+🔭 Currently Working On
+
+Real-Time Healthcare Analytics Dashboard on Oracle Cloud Infrastructure (OCI)
+E-Commerce Customer Intelligence Platform with predictive modeling and churn analysis
+Machine learning projects using Python, R, and advanced AI models
+
+👯 Looking to Collaborate On
+
+Data science and machine learning projects
+Generative AI applications and LLM integrations
+Predictive analytics and business intelligence solutions
+Computer vision and deep learning projects
+
+🤝 Need Help With
+
+Advanced MLOps and model deployment strategies
+Large-scale data pipeline optimization
+AI ethics and responsible AI implementation
+
+🌱 Currently Learning
+
+Generative AI and Large Language Models (LLMs)
+Advanced time-series forecasting techniques
+Cloud-based ML deployment (Oracle OCI, AWS)
+Automated workflow tools and data engineering best practices
+
+💬 Ask Me About
+
+Python/R programming for data science
+Machine learning algorithms (Random Forest, XGBoost, Neural Networks)
+Data visualization with Tableau and ggplot2
+Computer Vision projects (OpenCV, CNN)
+SQL query optimization and database design
+Oracle Cloud Infrastructure (OCI) services
+
+🎓 Certifications
+
+OCI Oracle Gen AI Professional (2025)
+OCI Oracle Data Science Professional (2025)
+OCI Oracle AI Foundation Course (2025)
 
 
 # 💻 Tech Stack:
