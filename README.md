@@ -1,6 +1,6 @@
 💫 About Me: <br>
 Hi, I'm Ali Kazi! 👋 <br>
-Welcome to my GitHub profile! I'm a Data Scientist and AI/ML Engineer with a passion for building intelligent, data-driven solutions. I'm currently pursuing my Master's in Computer Science (specializing in Artificial Intelligence) at the University of Paderborn, where I'm exploring machine learning, generative AI, and data science applications.
+Welcome to my GitHub profile! I'm a Data Scientist and AI/ML Engineer with a passion for building intelligent, data-driven solutions. I'm currently pursuing my Master's in Computer Science (specializing in Artificial Intelligence) at the University of Paderborn, where I'm exploring machine learning, generative AI, and data science applications.<br>
 🔭 Currently Working On
 
 Real-Time Healthcare Analytics Dashboard on Oracle Cloud Infrastructure (OCI)
